@@ -5,7 +5,7 @@ Error: Invalid CSS after "@import "global"": expected "{", was ";"
 1: ---
 2: ---
 3: @import "global";
-4: @import "sidebar";/* CSS Document *\/
+4: @import "sidebar";
 
 Backtrace:
 /Users/w0854700/Sites/jb_portfolio/assets/css/main.scss:3
@@ -31,4 +31,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Invalid CSS after \"@import \"global\"\": expected \"{\", was \";\"\A         on line 3 of /Users/w0854700/Sites/jb_portfolio/assets/css/main.scss\A \A 1: ---\A 2: ---\A 3: @import \"global\";\A 4: @import \"sidebar\";/* CSS Document */"; }
+  content: "Error: Invalid CSS after \"@import \"global\"\": expected \"{\", was \";\"\A         on line 3 of /Users/w0854700/Sites/jb_portfolio/assets/css/main.scss\A \A 1: ---\A 2: ---\A 3: @import \"global\";\A 4: @import \"sidebar\";"; }
